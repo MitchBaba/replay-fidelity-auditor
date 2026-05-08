@@ -112,7 +112,7 @@ Audit complete. No reconstruction performed.
 
 Paper repository:
 
-PASTE_YOUR_PAPER_REPO_LINK_HERE
+https://github.com/MitchBaba/replay-fidelity-paper
 
 ## Author
 
